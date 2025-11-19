@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.AI.png" alt="AKM Zakaria Banner" width="100%" />
+  <img src="mybanner_HD.png" alt="AKM Zakaria Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>AKM Zakaria</strong></h1>
