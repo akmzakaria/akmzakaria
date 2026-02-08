@@ -9,16 +9,12 @@
 ---
 
 ## 🧑‍💻 About Me
-Full-stack web developer skilled in React, Node.js, Express.js, and MongoDB.  
+Full-stack web developer skilled in React.js, Node.js, Express.js, and MongoDB.  
 Currently learning Next.js to build fast, scalable, and modern full-stack applications.
 
 **Current Activities:**
-- I am exploring **NEXT.JS** for building modern web applications.
-- Learning **UI/UX design principles** to improve user experience.
-
----
-
-## 🚀 Technologies & Tools
+- Exploring **NEXT.JS** for building modern web applications.
+- Learning **TypeScript** to improve code quality and debugging efficiency.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" /> &nbsp;
