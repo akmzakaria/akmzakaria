@@ -17,18 +17,18 @@ Currently learning Next.js to build fast, scalable, and modern full-stack applic
 - Learning **TypeScript** to improve code quality and debugging efficiency.
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="50" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=react" title="React" width="50" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="50" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" /> &nbsp;
 </p>
 
 ---
